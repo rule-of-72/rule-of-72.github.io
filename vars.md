@@ -1,5 +1,12 @@
 # Jekyll variables
 
+## jekyll-titles-from-headings
+(Taken from first heading line in markdown if not set elsewhere)
+
+| Variable | Value |
+| --- | --- |
+| page.title | {{ page.title }} |
+
 ## github-metadata
 
 ### site...
