@@ -34,6 +34,7 @@
 | build_revision | {{ site.github.build_revision }} |
 | project_title | {{ site.github.project_title }} |
 | project_tagline | {{ site.github.project_tagline }} |
+| owner | {{ site.github.owner }} |
 | owner_name | {{ site.github.owner_name }} |
 | owner_url | {{ site.github.owner_url }} |
 | owner_gravatar_url | {{ site.github.owner_gravatar_url }} |
