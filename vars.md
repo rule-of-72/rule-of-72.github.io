@@ -2,6 +2,18 @@
 
 ## github-metadata
 
+### site...
+(Set by `github-metadata` if not set elsewhere)
+
+| Variable | Value |
+| --- | --- |
+| title | {{ site.title }} |
+| description | {{ site.description }} |
+| url | {{ site.url }} |
+| baseurl | {{ site.baseurl }} |
+
+### site.github...
+
 | Variable | Value |
 | --- | --- |
 | hostname | {{ site.github.hostname }} |
