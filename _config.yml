@@ -1,7 +1,5 @@
 theme: jekyll-theme-slate
 
-title: Rule of 72, LLC
-
 show_downloads: false
 
 optional_front_matter:
@@ -11,4 +9,4 @@ readme_index:
   remove_originals: true
 
 titles_from_headings:
-  strip_title: true
+  strip_title: false
